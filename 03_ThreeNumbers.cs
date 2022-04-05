@@ -3,7 +3,7 @@ class ThreeNumbers
 {
     static void Main(string[] args)
     {
-        int[] num = new int[3];
+        int[] num = new int[100];
         for (int i = 0; i < num.Length; i++)
         {
             Random rd = new();

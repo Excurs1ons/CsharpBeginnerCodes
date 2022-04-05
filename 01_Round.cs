@@ -1,8 +1,8 @@
 ﻿//输入半径，求对应圆的周长、面积和对应的球体的体积；
-class R
+class RoundCal
 {
     const double PI = 3.14;
-    static void Main(string[] args)
+    static void Main()
     {
         Console.WriteLine("输入半径:");
         while (true)

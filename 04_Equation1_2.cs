@@ -1,10 +1,7 @@
-﻿
-//ax^2+bx+c=0
-class Equation1_2
-
+﻿//ax^2+bx+c=0
+class Equation1_2 
 {
-
-    static void Main(string[] args)
+    static void Main1(string[] args)
 
     {
         Console.WriteLine("解一元二次方程");
