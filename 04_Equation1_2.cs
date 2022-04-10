@@ -1,10 +1,8 @@
-﻿//ax^2+bx+c=0
+﻿//解一元二次方程 ax^2+bx+c=0
 class Equation1_2 
 {
     static void Main1(string[] args)
-
     {
-        Console.WriteLine("解一元二次方程");
         Console.WriteLine("输入二次项系数");
         double.TryParse(Console.ReadLine(), out double a);
         Console.WriteLine("输入一次项系数");
